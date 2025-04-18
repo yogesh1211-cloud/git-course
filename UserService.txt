@@ -1,2 +1,4 @@
 Get the user data...
-And add into database
+And add into database.
+
+Create an avatar for user.
